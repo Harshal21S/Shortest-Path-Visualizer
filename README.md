@@ -1,6 +1,10 @@
 # Shortest-Path-Visualizer
 A dynamic and interactive web application for visualizing shortest path algorithms. This project allows users to see how algorithms like Dijkstra's, A*, BFS, and DFS operate step-by-step on a grid. The visualizations make it easier to understand how these algorithms explore paths and find the optimal solution.
 
+## Live Site
+
+[Click Here For Live View](http://127.0.0.1:3000/index.html)
+
 ## Features
 
 - **Interactive Grid Creation**: Draw walls and weights directly on the grid to customize the pathfinding scenario.
