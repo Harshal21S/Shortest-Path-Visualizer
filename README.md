@@ -1,11 +1,11 @@
 # Shortest-Path-Visualizer
 A dynamic and interactive web application for visualizing shortest path algorithms. This project allows users to see how algorithms like Dijkstra's, A*, BFS, and DFS operate step-by-step on a grid. The visualizations make it easier to understand how these algorithms explore paths and find the optimal solution.
 
-Features
+# Features
 
 Interactive Grid Creation: Draw walls and weights directly on the grid to customize the pathfinding scenario.
 
-Multiple Algorithms:
+# Multiple Algorithms:
 
 Dijkstra's Algorithm
 
@@ -23,7 +23,7 @@ Custom Start and End Points: Drag and drop start and end nodes on the grid.
 
 Reset and Clear Options: Easily reset the grid or clear walls and paths.
 
-Installation
+# Installation
 
 Clone the repository:
 
@@ -53,7 +53,7 @@ Styling: TailwindCSS/Bootstrap (or mention your styling framework)
 
 Visualization: Canvas/WebGL (if applicable)
 
-Usage
+# Usage
 
 Launch the application and customize your grid.
 
@@ -74,7 +74,7 @@ Screenshots
 
 
 
-Contributing
+# Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
 
@@ -96,11 +96,11 @@ git push origin feature-name
 
 Submit a pull request.
 
-License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgements
+# Acknowledgements
 
 Inspired by various pathfinding visualizers and algorithm tutorials.
 
