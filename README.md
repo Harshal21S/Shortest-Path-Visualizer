@@ -1,101 +1,99 @@
 # Shortest-Path-Visualizer
 A dynamic and interactive web application for visualizing shortest path algorithms. This project allows users to see how algorithms like Dijkstra's, A*, BFS, and DFS operate step-by-step on a grid. The visualizations make it easier to understand how these algorithms explore paths and find the optimal solution.
 
-# Features
+## Features
 
-Interactive Grid Creation: Draw walls and weights directly on the grid to customize the pathfinding scenario.
+- **Interactive Grid Creation**: Draw walls and weights directly on the grid to customize the pathfinding scenario.
 
-# Multiple Algorithms:
+- **Multiple Algorithms**:
 
-Dijkstra's Algorithm
+- Dijkstra's Algorithm
 
-A* (A-Star) Algorithm
+- A* (A-Star) Algorithm
 
-Breadth-First Search (BFS)
+- Breadth-First Search (BFS)
 
-Depth-First Search (DFS)
+- Depth-First Search (DFS)
 
-Step-by-Step Visualization: Watch the algorithm's decision-making process in real time.
+- **Step-by-Step Visualization**: Watch the algorithm's decision-making process in real time.
 
-Speed Control: Adjust the visualization speed for a better learning experience.
+- **Speed Control**: Adjust the visualization speed for a better learning experience.
 
-Custom Start and End Points: Drag and drop start and end nodes on the grid.
+- **Custom Start and End Points**: Drag and drop start and end nodes on the grid.
 
-Reset and Clear Options: Easily reset the grid or clear walls and paths.
+- **Reset and Clear Options**: Easily reset the grid or clear walls and paths.
 
-# Installation
+## Installation
 
-Clone the repository:
-
+1. **Clone the repository**:
+```bash
 git clone https://github.com/yourusername/shortest-path-visualizer.git
-
-Navigate to the project directory:
-
+```
+2. **Navigate to the project directory**:
+```bash
 cd shortest-path-visualizer
-
-Install dependencies:
-
+```
+3. **Install dependencies**:
+```bash
 npm install
-
-Start the development server:
-
+```
+4. **Start the development server**:
+```bash
 npm start
-
-Open the application in your browser:
-
+```
+5. **Open the application in your browser**:
+```bash
 http://localhost:3000
+```
+## Technologies Used
 
-Technologies Used
+- **Frontend**: HTML, CSS, JavaScript
 
-Frontend: HTML, CSS, JavaScript, React.js
+- **Styling**: Bootstrap
+  
+## Usage
 
-Styling: TailwindCSS/Bootstrap (or mention your styling framework)
+1. Launch the application and customize your grid.
 
-Visualization: Canvas/WebGL (if applicable)
+2. Select an algorithm from the dropdown menu.
 
-# Usage
+3. Place the start and end nodes by dragging them on the grid.
 
-Launch the application and customize your grid.
+4. Draw walls or weighted nodes as needed.
 
-Select an algorithm from the dropdown menu.
+5. Click "Visualize" to see the algorithm in action.
 
-Place the start and end nodes by dragging them on the grid.
+6. Adjust the speed slider to control the visualization speed.
 
-Draw walls or weighted nodes as needed.
+7. Use the "Reset" or "Clear" buttons to modify the grid.
 
-Click "Visualize" to see the algorithm in action.
-
-Adjust the speed slider to control the visualization speed.
-
-Use the "Reset" or "Clear" buttons to modify the grid.
-
-# Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
 
-Steps to Contribute:
+### Steps to Contribute:
 
-Fork the repository.
+1. Fork the repository.
 
-Create a new branch for your feature:
-
+2. Create a new branch for your feature:
+```bash
 git checkout -b feature-name
-
-Commit your changes:
-
-git commit -m "Add feature description"
-
-Push to your branch:
-
+```
+3. Commit your changes:
+```bash
+git commit -m  "Add feature description"
+```
+4. Push to your branch:
+```bash
 git push origin feature-name
+```
+5. Submit a pull request.
 
-Submit a pull request.
+## License
 
-# License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-# Acknowledgements
+## Acknowledgements
 
 Inspired by various pathfinding visualizers and algorithm tutorials.
 
