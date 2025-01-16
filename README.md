@@ -69,11 +69,6 @@ Adjust the speed slider to control the visualization speed.
 
 Use the "Reset" or "Clear" buttons to modify the grid.
 
-Screenshots
-
-
-
-
 # Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
